@@ -1,0 +1,15 @@
+.pomodoro {
+  margin-top: 20px;
+}
+
+.timer {
+  font-size: 2em;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.buttons button {
+  margin-right: 10px;
+}
