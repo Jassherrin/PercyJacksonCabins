@@ -14,7 +14,7 @@ const Pomodoro = () => {
           if (minutes === 0) {
             clearInterval(intervalId);
             setIsActive(false);
-            // Trigger some action when pomodoro ends
+            
           } else {
             setMinutes(minutes - 1);
             setSeconds(59);
